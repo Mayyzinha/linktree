@@ -9,7 +9,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  color: #0a5c6b;
+  color: #ff66fa;
 }
 
 /* Container centralizado */
@@ -83,17 +83,20 @@ h1 {
 @media (max-width: 600px) {
   h1 {
     font-size: 1.8em;
+    color: #ff66fa
   }
 
   .sociais a {
     display: block;
     width: 100%;
     margin: 10px 0;
+    background-color: #fad3fa
   }
 
   .container {
     margin: 30px 10px;
     padding: 25px 15px;
+    color: #ffa1ff;
   }
 
   .foto {

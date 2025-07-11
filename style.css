@@ -32,14 +32,16 @@ h1 {
 
 /* Botões sociais */
 .sociais a {
-  display: inline-block;
-  margin: 10px;
-  padding: 12px 24px;
+  display: block;
+  width: 400px;
+  margin: 12px auto;
+  padding: 15px 20px;
   background-color: #fad3fa;
   color: white;
   text-decoration: none;
   border-radius: 8px;
   text-style:Marker Felt, fantasy;
+  text-align: center;
   font-size: 1.1em;
   transition: background-color 0.3s;
 }
